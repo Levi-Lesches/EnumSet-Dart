@@ -1,6 +1,7 @@
 name: enumset
 description: A Dart implementation EnumSet (or bit fields)
 version: 0.0.1
+repository: https://github.com/Levi-Lesches/EnumSet-Dart
 # homepage: https://www.example.com
 
 environment:
